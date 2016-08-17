@@ -1,0 +1,33 @@
+More comments on your latest ESF: 
+
+General Comments: 
+
+Please re-read and implement the requirements listed on page #2 of the ESF Template 
+
+Issue #1: Table of Contents not hyperlinked (list of tables IS hyperlinked correctly). List of Figures is empty. No hyperlink bookmarks nor internal reference links within the report. 
+Issue #2: PDF must contain hyperlinked bookmarks (to data sheets, etc..)- yours still does not 
+Issue #3: Use internal reference links - yours does not 
+Issue #4: If you refer to parts of a data sheet, then you need to provide an internal document links from the text to the respective datasheet and another internal document link back from the datasheet to the text section. 
+Issue #5: Please lable all drawings/figures/tables and include them in the Table of Contents. Most of the new drawings you added are not numbered nor are they in the table of Contents. 
+Comment: Ensure all your links to original data sheets are correct. I do not have time to verify every link, however if we need to review your ESF during competition and links do not work or are not correct you will not pass safety tech until the links are fixed and the ESF corrected 
+
+
+
+Sec 3.2: Incorrect statement. You DO have a second accumulator pack. Please add a statement that pack #2 is identical in design to pack #1 
+
+More comments on your latest ESF: 
+
+PLEASE NOTE, you appear to have some serious deficiencies in your accumulator design. Please see the comments for sec 3.1.9 and 3.1.4. Also, please email me at stilessds@aol.com so I can send you some guidance on my comments related to sec 3.1.9 
+
+
+Sec 3.1.9: Please note requirements of rule EV6.1.4 (parallel batteries). I do not think you accumulator bus bar design meets this requirement. You MUST have fuseable links on at least one of the series paths in a parallel configuration unless your cells have internal over current protection (see EV6.1.6). 
+Sec 3.1.9: You need to provide info and data sheets for ALL fuses (even GLVS fuses), especially any/all fusing in an enclosure with HV (e.g. BMS, etc..). Please note EV 
+Sec 3.1.10: Ensure your accumulator containers meet EV8.2.3 
+Sec 3.1.10: No data sheet for the charger 
+Sec 3.1.10: From you very brief section 3.1.10 I cannot tell if you meet EV8.2.3, 8.3.1, 8.3.2, 8.3.3, 8.3.4 & 8.3.6 
+Sec 3.1.10: How will your charger electrically and mechanically connect to the HV system? Through the HVD? 
+Sec 3.1.11: Please note the requirement of EV3.2.3 and take LOTS of pictures of the internals of your accumulators 
+Sec 3.1.11: Will you be bringing spare accumulators? If so, please see rule EV3.2.2 
+3.2 - You still need to provide a description (and links to data sheets) of the wiring (size, voltage rating, etc)and the fusing. 
+4.1.2 - How do the TS connections made to the motor controller meet the 200nm requirement in EV4.5.7? Are all your external cables orange or enclosed in orange conduit? 
+5.1.2 - Please provide some kind of data or spec sheet on the crimp terminals to help verify the connections meet the 200nm requirement of EV4.5.7 

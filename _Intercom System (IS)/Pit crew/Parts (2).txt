@@ -1,0 +1,80 @@
+						
+						
+						
+						
+						
+						
+						
+						
+ANT1	SMA	CONSMA002	3.48	http://www.digikey.com/product-detail/en/CONREVSMA002/CONREVSMA002-ND/340145		
+C1	100nF	805				
+C2	DNC	805				
+C3	DNC	805				
+C4	100uF	EIA3216				
+C5	0.1uf	805				
+C6	0.1uf	805				
+C7	10uF	EIA3216				
+C8	470uF	805				
+C9	1uF	805				
+C10	100nF	805				
+C11	100nF	805				
+C12	470nF	805				
+C13	1uF	805				
+C14	10uF	EIA3216				
+C15	0.22uF	805				
+C16	1uF	EIA3216				
+C17	10uF	EIA3216				
+C18	10uF	EIA3216				
+C19	10uF	EIA3216				
+C20	0.1uf	805				
+IC1	7805	TO252				
+J1	POWER_JACKPTH	POWER_JACK_PTH	0.93	http://www.digikey.com/product-detail/en/PJ-202B/CP-202B-ND/252008		
+JP2	M02-JST-2MM-SMT	JST-2-SMD	0.54	http://www.digikey.com/product-detail/en/S2B-ZR-SM4A-TF(LF)(SN)/455-1693-1-ND/926820		
+JP3	M02-JST-2MM-SMT	JST-2-SMD	0.54	http://www.digikey.com/product-detail/en/S2B-ZR-SM4A-TF(LF)(SN)/455-1693-1-ND/926820		
+JP4	M02-JST-2MM-SMT	JST-2-SMD	0.54	http://www.digikey.com/product-detail/en/S2B-ZR-SM4A-TF(LF)(SN)/455-1693-1-ND/926820		
+JP5	1X05_LOCK_LONGPADS	SparkFun-Connectors				
+L1	0	1007				
+L2	BLM18EG221TN1D	603				
+L3	BLM18HG102SN1D	603				
+L4	BLM18HG102SN1D	603				
+LED1	RGBLED_CA-5MM	LED5MMRGB				
+Q1	BSS123	SOT23	0.24	http://www.digikey.com/product-detail/en/BSS123/BSS123NCT-ND/244665		
+Q2	BSS123	SOT23	0.24	http://www.digikey.com/product-detail/en/BSS123/BSS123NCT-ND/244665		
+Q3	BSS123	SOT23	0.24	http://www.digikey.com/product-detail/en/BSS123/BSS123NCT-ND/244665		
+R1	10k	805				
+R2	10k	805				
+R3	10k	805				
+R4	10k	805				
+R5	RV121SF-30-009J-A10K-00K	RV121SF-30-009J-A10K-00K	1.75	http://www.mouser.com/ProductDetail/Alpha-Taiwan/RV121SF-30-009J-A10K-00K/?qs=%2fha2pyFaduiCMlFv9UPIMlxt2Li8h5N6ueoVv%2fuT082QFcW8a7CFznvJFo81J4jD		
+R6	68k	805				
+R7	10k	805				
+R8	1k	805				
+R9	2.2k	805				
+R10	1k	805				
+R11	1k	805				
+R12	805	SparkFun-Passives				
+R13	805	SparkFun-Passives				
+R14	805	SparkFun-Passives				
+R15	10k	805				
+R16	1k	805				
+R17	0.2	R2512				
+R18	10k	R0805				
+R19	10k	805				
+R20	10k	805				
+R21	620	805				
+R22	240	805				
+R23	10k	805				
+R24	10k	805				
+R25	12k	805				
+R26	20k	805				
+S1	NO	TACTILE-PTH-SIDEEZ				
+SJ1	NO	SJ_2S-NO				
+SJ2	SJ_2S-NO	SparkFun-Passives				
+SJ3	SJ_3	SparkFun-Passives				
+SJ4	SJ_3	SparkFun-Passives				
+U$1	AUDIO-JACK3	AUDIO-JACK-TRRS-SMD				
+U1	SR-FRS-1W	SR-FRS-1W				
+U2	LM4875MX	SO-8				
+U3	PIC16F721	SSOP-20				
+U4	BQ24005PWP	HTSSOP-20				
+U6	LM317SX/NOPB	D2PACK/A				

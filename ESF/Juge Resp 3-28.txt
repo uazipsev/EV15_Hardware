@@ -1,0 +1,7 @@
+Sec 2.1.3: Please lable the CAD drawing of the car with arrows to identify all relevant shutdown circuit componenets 
+
+Sec 2.2.2: Please provide additional/better detail in the CAD drawing for the location of the IMD. I can't tell which accumulator container the IMD is located 
+
+Sec 2.12.1 Please provide a data sheet for all wiring and any intermediate connectors in the circuit 
+
+3.3 - This figure shows the HVD not the energy meter 

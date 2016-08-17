@@ -1,0 +1,43 @@
+Gernarl Comments. 
+Section 3 needs much work. The design of the accumulators is one of the most critical elements of your car. Please follow the ESF template and provide as much written explaination of all elements as possible. 
+Section 3: missing section numbers 
+Section 3: No hyperlinks from tables to individual data sheets (and back) 
+Section 3: Please provide a drawing (not a schematic) of the HV and GLV wiring internal to the accumulator showing all wiring, AIRs, fusing, etc.. 
+Section 3: Please take an include pictures of your assembled packs includinf close ups of cell connections. A detailed phoo history of cell assembly is a great help at tech inpsection 
+Sec 3.1.3: How are the cells mechanically connected. The ESF doesn't say 
+Sec 3.1.3: Missing data on electrical specs for all wiring/cables/bus bars internal to the accumulator 
+Sec 3.1.5: No explaination of how the BMS sense wires are connected to each cell. Please note requirements of rules EV3.6.4 & 4.5.11 
+Sec 3.1.5: Please show how all BMS wiring internal to each accumulator and how all low voltage wiring is galvanically isolated form the HV system 
+Sec 3.1.5: Please describe the over current protection required in rules Sec EV3.7.4 
+Sec 3.1.5: The schematics on pages 30 & 31 are unreadable with their black background. Please explain what the schematics are for and how they operate 
+Sec 3.1.6: Please provide picture or CAD drawing of location of Accumulator Indicator light 
+Sec 3.1.6: No data sheet or specs for wiring (and all other components in circuit) from AIRs to Accumulator Indicator light. Also, please show routing of wiring (showing required spacing from any low voltage wiring) 
+Sec 3.1.6: The schematic on page 32 is unreadable with its' black . Please explain what the schematics are for and how they operate 
+Sec 3.1.6: Please show/explain how the light is controlled directly from the AIRs. 
+Sec 3.1.6: Please explain how the light would operate even when the accumulator(s) are removed from the vehicle 
+Sec 3.1.7: There are too many issues with your accumulator wiring to list individually. Sec 3.1.7 must include specs/drawings/photos/data sheets of ALL accumulator wiring (HV & GLV). Please refer to rules sections 4.1.1-4.1.8, 4.5.1, 4.5.5, 4.5.6, 4.5.8, 4.5.12, 6.1.5 
+Sec 3.1.7: Your accumulator container is conductive. Please show grounding of container to GLV ground (EV4.6.2) 
+Sec 3.1.7: Any fusible links in the container must meet EV6.1.5 
+Sec 3.1.8: you must provide specifications for the Overload DC current rating of your AIR. Your ESF indicates your max 580a for 2 seconds. Your AIRs are rated for 500a continuous. 
+Sec 3.1.9: You must include specs (and data sheets) for all fusing (and fuse holders) in accumulator including GLV fusing 
+Sec 3.1.9: Please note requirements of rule EV6.1.4 (parallel batteries). I cannot tell if your twin accumulator design meets this requirement 
+
+Sec 3.1.10: Missing much detail. Please read ESF template 
+Sec 3.1.8: you must provide specifications for the Overload DC current rating of your AIR. Your ESF indicates your max 580a for 2 seconds. Your AIRs are rated for 500a continuous. 
+
+
+
+Sec 3.1.11: Missing. Please document in detail (drawings/photos, etc..) the mechanical construction of the accumulator containers 
+
+NOTE: Section 3.1.11 is a critcal section. You need to show you meet the requirements of EV 3.4.5 - 3.4.11 
+
+Sec 3.1.11: Will you be bringing spare accumulators? If so, please see rule EV3.2.2 
+Sec 3.1.11: Are your accumulators removable? 
+Sec 3.1.11: Please show location of required HV label/sticker (EV4.6.1) 
+Sec 3.1.11: Will you be bringing spare accumulators? If so, please see rule EV3.2.2 
+Sec 3.1.11: Are your accumulators removable? 
+Sec 3.1.11: What are you using for maintenance Plugs (EV3.3.3)? 
+Sec 3.1.11: How are the AIRs and Fuses seperated from the rest of the accumulator (EV 3.3.5)? 
+Sec 3.1.11: Do you have/need pilot/interlack for you accumulators (EV 3.3.6)? 
+Sec 3.1.11: Do the accumulator containers have any holes other than for wiring? Are all holes sealed? 
+Sec 3.1.11: Are your accumulators completely sealed? if so do they have the required pressure relief valve? 

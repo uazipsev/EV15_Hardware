@@ -1,0 +1,5 @@
+tss*rotated90 0.200 0.200
+tm 2.538 0.200
+tss*rotated90 0.200 2.302
+fuse 0.200 4.403
+Charger*rotated90 2.905 4.225

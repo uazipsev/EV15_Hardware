@@ -1,0 +1,114 @@
+Partlist
+
+Exported from Charger_PCB.sch at 5/25/2015 11:38:13 PM
+
+EAGLE Version 6.6.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                     Device                    Package                  Library               Sheet
+
+C1       .1uF                      C-USC0805                 C0805                    adafruit              1
+C2       .1uF                      C-USC0805                 C0805                    adafruit              1
+C3       .1uF                      C-USC0805                 C0805                    adafruit              1
+C4                                 CAP_POL1206-KIT           EIA3216-KIT              SparkFun-Passives     1
+C5       .1uF                      C-USC0805                 C0805                    adafruit              1
+C6       .1uF                      C-USC0805                 C0805                    adafruit              1
+C7       .1uF                      C-USC0805                 C0805                    adafruit              1
+C8                                 CAP_POLE                  PANASONIC_E              SparkFun-Capacitors   1
+C10      10uF                      CAP_POL6032               EIA6032                  SparkFun-Capacitors   1
+C11      1uF                       CAP1206                   1206                     SparkFun-Capacitors   1
+C12      0.1uF                     CAP0805                   0805                     SparkFun-Capacitors   1
+C13      0.1uf                     CAP0805                   0805                     SparkFun              1
+C14      4.7uF                     CAP_POL1206               EIA3216                  SparkFun              1
+C17      0.1uf                     CAP0805                   0805                     SparkFun              1
+C28      0.1uF                     CAP0805                   0805                     SparkFun-Passives     2
+D1                                 DIODEHV                   DIODE-HV                 SparkFun-DiscreteSemi 2
+D2                                 DIODEHV                   DIODE-HV                 SparkFun-DiscreteSemi 2
+D3                                 DIODEHV                   DIODE-HV                 SparkFun-DiscreteSemi 2
+D4                                 DIODEHV                   DIODE-HV                 SparkFun-DiscreteSemi 2
+D5                                 DIODEHV                   DIODE-HV                 SparkFun-DiscreteSemi 1
+J1       POWER-IN                  EUROMAG-290DEG            M2                       NASA_LIB              1
+J4       CHARGER-POWER             EUROMAG-290DEG            M2                       NASA_LIB              2
+J5       AIR-LOW                   EUROMAG-290DEG            M2                       NASA_LIB              2
+J6       AIR                       EUROMAG-290DEG            M2                       NASA_LIB              2
+J7       INTERLOCK                 EUROMAG-290DEG            M2                       NASA_LIB              2
+J8       E-STOP                    EUROMAG-290DEG            M2                       NASA_LIB              2
+J9       AIR-POWER IN              EUROMAG-290DEG            M2                       NASA_LIB              2
+JP1                                M04POLAR_LOCK             MOLEX-1X4_LOCK           SparkFun-Connectors   1
+JP2                                M04POLAR_LOCK             MOLEX-1X4_LOCK           SparkFun-Connectors   1
+JP3                                M05LOCK_LONGPADS          1X05_LOCK_LONGPADS       SparkFun-Connectors   1
+JP4                                M04POLAR_LOCK             MOLEX-1X4_LOCK           SparkFun-Connectors   1
+JP5                                M03POLAR_LOCK             MOLEX-1X3_LOCK           SparkFun-Connectors   1
+JP6                                JUMPER-2SMD-NO            SJ_2S-NO                 SparkFun-Passives     2
+JP7                                M03POLAR_LOCK             MOLEX-1X3_LOCK           SparkFun-Connectors   1
+JP8      LIGHT-HORN                M02POLAR_LOCK             MOLEX-1X2_LOCK           SparkFun-Connectors   2
+JP11     LIGHT                     M04POLAR_LOCK             MOLEX-1X4_LOCK           SparkFun-Connectors   2
+JP12     LIGHT-HORN                M02POLAR_LOCK             MOLEX-1X2_LOCK           SparkFun-Connectors   2
+K1       ALQ312                    ALQ312                    ALQ312                   FSAE Eletric (2)      2
+K2       ALQ312                    ALQ312                    ALQ312                   FSAE Eletric (2)      2
+K3       ALQ312                    ALQ312                    ALQ312                   FSAE Eletric (2)      2
+K4       ALQ312                    ALQ312                    ALQ312                   FSAE Eletric          2
+LED1                               LEDCHIP-LED0805           CHIP-LED0805             adafruit              1
+LED2                               LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+LED9                               LEDCHIPLED_0805           CHIPLED_0805             adafruit              2
+Q1       BSS123LT1G                MOSFET-NCHANNELBSS123LT1G SOT23                    SparkFun-DiscreteSemi 2
+Q2       MOSFET-NCHANNELBSS123LT1G MOSFET-NCHANNELBSS123LT1G SOT23                    SparkFun-DiscreteSemi 2
+Q3       BSS123LT1G                MOSFET-NCHANNELBSS123LT1G SOT23                    SparkFun-DiscreteSemi 2
+Q4       BSS123LT1G                MOSFET-NCHANNELBSS123LT1G SOT23                    SparkFun-DiscreteSemi 2
+Q5       BSS123LT1G                MOSFET-NCHANNELBSS123LT1G SOT23                    SparkFun-DiscreteSemi 2
+Q6       BSS123LT1G                MOSFET-NCHANNELBSS123LT1G SOT23                    SparkFun-DiscreteSemi 2
+Q7       BSS123LT1G                MOSFET-NCHANNELBSS123LT1G SOT23                    SparkFun-DiscreteSemi 2
+Q8       BSS123LT1G                MOSFET-NCHANNELBSS123LT1G SOT23                    SparkFun-DiscreteSemi 2
+R1       1k                        R-US_R0805                R0805                    adafruit              1
+R2       2k                        R-US_R0805                R0805                    adafruit              1
+R3       1k                        R-US_R0805                R0805                    adafruit              1
+R4       1K                        R-US_R0805                R0805                    adafruit              1
+R5       1k                        R-US_R0805                R0805                    adafruit              1
+R6       1k                        R-US_R0805                R0805                    adafruit              1
+R7       2k                        R-US_R0805                R0805                    adafruit              1
+R8       10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     1
+R9       1k                        R-US_R0805                R0805                    adafruit              1
+R10      1k                        R-US_R0805                R0805                    adafruit              1
+R11      16.27k                    R-US_R0805                R0805                    adafruit              1
+R12      1k                        R-US_R0805                R0805                    adafruit              1
+R13      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R14      5k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R15      5k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R16      10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R17      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R18      10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R19      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R20      10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R21      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R22      10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R23      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R24      10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R25      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R26      10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R27      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R28      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R29      10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R30      1k                        RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R31      10k                       RESISTOR0805-RES          0805                     SparkFun-Passives     2
+R32      1K                        R-US_R0805                R0805                    adafruit              1
+R33      1k                        R-US_R0805                R0805                    adafruit              1
+R34      120                       R-US_R0805                R0805                    adafruit              1
+R35      1K                        R-US_R0805                R0805                    adafruit              1
+RX                                 LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+RX1                                LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+RX3      RED                       LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+RX5                                LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+SJ2                                JUMPER-PAD-2-NOYES_SILK   PAD-JUMPER-2-NO_YES_SILK SparkFun-Passives     1
+TX                                 LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+TX1                                LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+TX3      GREEN                     LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+TX5                                LEDCHIPLED_0805           CHIPLED_0805             adafruit              1
+U1       ISO7221ADR                ISO7221ADR                SO08                     NASA_LIB              1
+U2       CD74HC4052PWR             CD74HC4052PWR             TSSOP-16                 NASA_LIB              1
+U4       SN74LVC2G241DCTR          SN74LVC2G241DCTR          VFSOP-8                  Cleaverbrooks         1
+U5       APXW005A0X43-SRZ          APXW005A0X43-SRZ          APXW005A0X43-SRZ         NASA_LIB              1
+U6       SN75HVD08DR               SN75HVD08DR               SO-8                     FSAE Eletric          1
+U8       PIC18F45K22               PIC18F45K22               TQFP-44                  FSAE Eletric          1
+U13      NC7S14M5X                 NC7S14M5X                 SOT23-5                  FSAE Eletric          2
+U15      FT230X                    FT230X                    SSOP-16                  FSAE Eletric          1
